@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609751286676",
+    "project_id": "time-trucker-flutter-course",
+    "storage_bucket": "time-trucker-flutter-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609751286676:android:3c190061c44d29c0260581",
+        "android_client_info": {
+          "package_name": "com.example.projet32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609751286676-e648b8srp49one4253s7pnj0sbp5clvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projet32",
+            "certificate_hash": "824518de733622ac661967e0922ddc7e5ba73ae3"
+          }
+        },
+        {
+          "client_id": "609751286676-7tlraqnes8m1rn3bdi0733t56oco1691.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUK5g76gwbTeajgkj_QScrxKX_oITdgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609751286676-7tlraqnes8m1rn3bdi0733t56oco1691.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
